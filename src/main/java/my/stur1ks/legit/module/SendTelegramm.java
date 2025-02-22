@@ -7,8 +7,8 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
 public class SendTelegramm {
-    private static final String BOT_TOKEN = "7826298107:AAH_pAfhGmPgARtbKKaZyAKxQ2NJ2NMFFDs";
-    private static final String CHAT_ID = "6725981880";
+    private static final String BOT_TOKEN = "Хуй те а не токен";
+    private static final String CHAT_ID = "получать тут - @getmyid_bot";
 
     public static void sendMessage(String message) {
         try {
